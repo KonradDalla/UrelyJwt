@@ -1,0 +1,19 @@
+/* main.css */
+
+.chart-visible {
+  height: 600px;
+  width: 60vh;
+}
+
+.chart-hidden {
+  height: 0;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 960px; /* Adjust this to control the maximum width of the container */
+  margin: 0 auto; /* This will center the container */
+}
+
+
+
